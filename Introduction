@@ -1,1 +1,8 @@
 DIY Steering Wheel 
+Ho iniziato questo progetto per via di una scommessa fatta con il mio migliore amico: costruire un volante sim racing ad un basso costo che potesse battere il logitech g29.
+Ho scoperto poi che in molti hanno già costruito volanti utilizzando dei servomotori e un piccolo circuito elettrico programmabile sul quale si andava a caricare il software FFBeast.
+Tramite questo programma il computer riesce a leggere il motore come se fosse una periferica da gioco, perfetto per quello che volevo fare io, così ho deciso di provare.
+Ho trovato un'offerta su subito.it di un hoverboard usato a 15€ e ho subito contattato il venditore che nel giro di qualche ora mi ha risposto e ha accettato di vederci qualche giorno dopo per vendermelo.
+Una volta preso l'hoverboard l'ho smontato e ne ho preso i motori per poi smontarli e modificarli a mio piacimento per trasformarli nel volante.
+
+Modificato il motore ho ordinato da aliexpress l'alimentatore e la scheda sulla quale avrei installato ffbeast.
